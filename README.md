@@ -118,4 +118,6 @@ The methods shown here were used to improve Kali Linux and Python skills, improv
 
 A few commands were found via Reddit, and Discord servers.
 
+LINUX COMMANDS SHOWN IN SCREENSHOTS FOLDER
+
 Thanks for checkin out my Password Cracking and Hash Analysis project. I learned a lot and feel free to reach out. 
